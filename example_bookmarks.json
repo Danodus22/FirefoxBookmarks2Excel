@@ -1,0 +1,48 @@
+{
+    "guid": "root________",
+    "title": "",
+    "index": 0,
+    "dateAdded": 1727671699308000,
+    "lastModified": 1731930541339000,
+    "id": 1,
+    "typeCode": 2,
+    "type": "text/x-moz-place-container",
+    "children": [
+        {
+            "guid": "menu________",
+            "title": "menu",
+            "index": 0,
+            "dateAdded": 1727671699308000,
+            "lastModified": 1731909305250000,
+            "id": 2,
+            "typeCode": 2,
+            "type": "text/x-moz-place-container",
+            "children": [
+                {
+                    "guid": "df-PT8UX2UhB",
+                    "title": "Bookmarks Folder",
+                    "index": 0,
+                    "dateAdded": 1607440157000000,
+                    "lastModified": 1731650176498000,
+                    "id": 12,
+                    "typeCode": 2,
+                    "type": "text/x-moz-place-container",
+                    "children": [
+                        {
+                            "guid": "d3nC3QJGP98i",
+                            "title": "Sample Bookmark",
+                            "index": 0,
+                            "dateAdded": 1670096213000000,
+                            "lastModified": 1715573617000000,
+                            "id": 13,
+                            "typeCode": 1,
+                            "iconUri": "https://example.com/favicon.ico",
+                            "type": "text/x-moz-place",
+                            "uri": "https://example.com"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
